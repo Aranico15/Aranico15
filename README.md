@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Nicol%C3%A1s%20Cruz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Crown%20Nifix&descSize=22&descAlignY=60&descColor=c9b6ff" width="100%" alt="Nicolás Cruz — Founder & CEO @ Crown Nifix" />
+<img src="https://raw.githubusercontent.com/Aranico15/Aranico15/main/assets/header.svg" width="100%" alt="Nicolás Cruz — Founder & CEO @ Crown Nifix" />
 
 <a href="https://github.com/Aranico15"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=B197FC&center=true&vCenter=true&width=760&lines=Building+scalable+technology+%26+AI+systems;Data+Engineering+%26+AI+student;AI+with+memory%2C+context+%26+controlled+autonomy;Las+coronas+no+se+heredan.+Se+ingenian." alt="Typing animation" /></a>
 
@@ -57,7 +57,5 @@ I study **Data Engineering & Artificial Intelligence** at Universidad Santo Tom�
 <div align="center">
 
 *Las coronas no se heredan. Se ingenian.* 👑
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
